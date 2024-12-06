@@ -13996,7 +13996,8 @@ a.social-icon-color3 {
 }
 
 .footer-bottom-right-text a:hover {
-  color: var(--ab-primary-color);
+  /* color: var(--green); */
+  color:#000;
 }
 
 /*====================================================
